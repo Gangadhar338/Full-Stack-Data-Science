@@ -1,0 +1,1 @@
+name=input("Enter your name: ").strip()\nif not name: print("Name cannot be empty.")\nelse:\n try:\n  age=int(input("Enter your age: ").strip())\n  if age<0: print("Age cannot be negative.")\n  else: print(f"Hello, {name}! Next year you will be {age+1}.")\n except ValueError: print("Please enter a whole number for age.")\n

@@ -1,0 +1,1 @@
+name="Student"\nage=21\ncity="Vijayawada"\nheight=1.75\nlearning_python=True\nfor value in (name,age,city,height,learning_python): print(value,type(value))\nprint("Age in five years:",age+5)\n

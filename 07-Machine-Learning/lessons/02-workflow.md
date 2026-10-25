@@ -1,0 +1,1 @@
+Define target and metric; split before fitting transformations; establish a baseline; use pipelines; tune on training/validation data; reserve test data for final evaluation; inspect errors, leakage, calibration and subgroup performance.

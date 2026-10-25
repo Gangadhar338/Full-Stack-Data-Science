@@ -1,0 +1,1 @@
+Generated course scaffold, roadmaps, examples, practice prompts, project briefs, and structure tests. Mark topics complete only after running code, solving exercises, testing results, and reviewing limitations.

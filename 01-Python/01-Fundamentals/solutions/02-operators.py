@@ -1,0 +1,1 @@
+a=17\nb=5\nprint("Sum:",a+b)\nprint("Difference:",a-b)\nprint("Product:",a*b)\nprint("Division:",a/b)\nprint("Floor division:",a//b)\nprint("Remainder:",a%b)\nprint("Power:",a**b)\nprint("a greater than b:",a>b)\n

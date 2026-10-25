@@ -1,0 +1,1 @@
+text="Data Science"\nprint(text.upper())\nprint(text.lower())\nprint(text[0])\nprint(text[-1])\nprint(text[:4])\nprint(len(text))\nprint("Science" in text)\nprint(f"I am learning {text}")\n
